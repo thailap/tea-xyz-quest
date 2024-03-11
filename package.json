@@ -1,0 +1,9 @@
+{
+  "name": "@thailap/tea-xyz-quest",
+  "version": "1.0.0",
+  "description": "Quest for tea.xyz",
+  "main": "index.js",
+  "author": "@thailap",
+  "repository": "https://github.com/thailap/tea-xyz-quest.git",
+  "license": "ISC"
+}
